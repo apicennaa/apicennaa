@@ -5,13 +5,7 @@
 <a href="https://github.com/apicennaa">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=E94DA6&center=true&vCenter=true&width=640&height=40&lines=Backend+Developer;System+Analyst;Building+Tawafly+%E2%9C%A6" alt="Typing animation" />
 </a>
-
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=apicennaa&label=Profile%20Views&color=ff71a7&labelColor=523488&style=flat-square)
-![Followers](https://img.shields.io/github/followers/apicennaa?label=Followers&style=flat-square&color=ff71a7&labelColor=523488)
-
-<img src="./cat-nap.gif" alt="Pixel art of a black cat napping on a cushion" width="420" />
 
 </div>
 
